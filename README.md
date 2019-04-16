@@ -1,2 +1,5 @@
 # ZomatoScraper_Python
-First time Scraping a Dynamic Websit 
+A scraper to scrape that details of all the resturants in NCR
+## Implemented:
+#### Beautiful Soup
+#### Multi-Threading
