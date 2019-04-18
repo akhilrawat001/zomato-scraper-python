@@ -1,0 +1,122 @@
+[
+    {
+        "resturantName": "Quick Bites",
+        "locality ": "Tummy Nation",
+        "rating": "Paschim Vihar",
+        "reviews": "NEW",
+        "priceRange": 400,
+        "resturnatID": 19004336
+    },
+    {
+        "resturantName": "Food Court",
+        "locality ": "Chaap Ka Baap",
+        "rating": "Azadpur",
+        "reviews": "NEW",
+        "priceRange": 200,
+        "resturnatID": 19005386
+    },
+    {
+        "resturantName": "Quick Bites",
+        "locality ": "Cafe Mount Kailash",
+        "rating": "Sector 27, Noida",
+        "reviews": "NEW",
+        "priceRange": 350,
+        "resturnatID": 19006511
+    },
+    {
+        "resturantName": "Quick Bites",
+        "locality ": "New Lazeez",
+        "rating": "Rohini",
+        "reviews": "-",
+        "priceRange": 600,
+        "resturnatID": 310872
+    },
+    {
+        "resturantName": "Tannu Tandoori",
+        "locality ": "Vijay Nagar",
+        "rating": "3.2",
+        "reviews": "97 votes",
+        "priceRange": 400,
+        "resturnatID": 310976
+    },
+    {
+        "resturantName": "Midha's  Punjabi Dhaba",
+        "locality ": "Sector 72, Noida",
+        "rating": "3.1",
+        "reviews": "5 votes",
+        "priceRange": 200,
+        "resturnatID": 18961921
+    },
+    {
+        "resturantName": "I.H.O.B - Indian House of Biryani",
+        "locality ": "Sector 110, Noida",
+        "rating": "3.3",
+        "reviews": "88 votes",
+        "priceRange": 250,
+        "resturnatID": 18522702
+    },
+    {
+        "resturantName": "Kanha Kachori Radha Jelebi",
+        "locality ": "Sector 22, Gurgaon",
+        "rating": "3.2",
+        "reviews": "20 votes",
+        "priceRange": 120,
+        "resturnatID": 18773107
+    },
+    {
+        "resturantName": "Casual Dining",
+        "locality ": "Al Sameer",
+        "rating": "Okhla Phase 1",
+        "reviews": "-",
+        "priceRange": 400,
+        "resturnatID": 18923840
+    },
+    {
+        "resturantName": "Vibhav Food Bakery",
+        "locality ": "Rohini",
+        "rating": "3.6",
+        "reviews": "27 votes",
+        "priceRange": 300,
+        "resturnatID": 18898045
+    },
+    {
+        "resturantName": "Flavors of London",
+        "locality ": "Vikaspuri",
+        "rating": "3.0",
+        "reviews": "8 votes",
+        "priceRange": 200,
+        "resturnatID": 313282
+    },
+    {
+        "resturantName": "Red Moon Bakery",
+        "locality ": "Okhla Phase 2",
+        "rating": "3.8",
+        "reviews": "68 votes",
+        "priceRange": 400,
+        "resturnatID": 7483
+    },
+    {
+        "resturantName": "Karma - A Unit of Lockup",
+        "locality ": "DLF Phase 3",
+        "rating": "4.0",
+        "reviews": "49 votes",
+        "priceRange": 1000,
+        "resturnatID": 18720871
+    },
+    {
+        "resturantName": "Chef's Noodle",
+        "locality ": "Sector 132, Noida",
+        "rating": "3.7",
+        "reviews": "434 votes",
+        "priceRange": 700,
+        "resturnatID": 303253
+    },
+    {
+        "resturantName": "Bikaner Choice",
+        "locality ": "Sector 6, Dwarka",
+        "rating": "3.4",
+        "reviews": "28 votes",
+        "priceRange": 150,
+        "resturnatID": 6737
+    }
+]

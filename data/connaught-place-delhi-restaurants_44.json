@@ -1,0 +1,122 @@
+[
+    {
+        "resturantName": "Machan - The Taj Mahal Hotel",
+        "locality ": "The Taj Mahal Hotel, Mansingh Road",
+        "rating": "4.0",
+        "reviews": "869 votes",
+        "priceRange": 5000,
+        "resturnatID": 2690
+    },
+    {
+        "resturantName": "Fateh Ki Kachori",
+        "locality ": "Kashmiri Gate",
+        "rating": "4.3",
+        "reviews": "441 votes",
+        "priceRange": 50,
+        "resturnatID": 310309
+    },
+    {
+        "resturantName": "House of Ming - The Taj Mahal Hotel",
+        "locality ": "The Taj Mahal Hotel, Mansingh Road",
+        "rating": "4.0",
+        "reviews": "496 votes",
+        "priceRange": 5500,
+        "resturnatID": 2689
+    },
+    {
+        "resturantName": "Zaika",
+        "locality ": "Daryaganj",
+        "rating": "3.8",
+        "reviews": "367 votes",
+        "priceRange": 600,
+        "resturnatID": 3181
+    },
+    {
+        "resturantName": "Quick Bites",
+        "locality ": "Food Box",
+        "rating": "Chawri Bazar",
+        "reviews": "NEW",
+        "priceRange": 300,
+        "resturnatID": 18970062
+    },
+    {
+        "resturantName": "London Street Kitchen",
+        "locality ": "Rajinder Nagar",
+        "rating": "4.0",
+        "reviews": "866 votes",
+        "priceRange": 750,
+        "resturnatID": 18332869
+    },
+    {
+        "resturantName": "Bake N Shake",
+        "locality ": "Jama Masjid",
+        "rating": "3.8",
+        "reviews": "36 votes",
+        "priceRange": 400,
+        "resturnatID": 18786721
+    },
+    {
+        "resturantName": "Cool Point Shahi Tukda",
+        "locality ": "Jama Masjid",
+        "rating": "4.3",
+        "reviews": "261 votes",
+        "priceRange": 100,
+        "resturnatID": 18079620
+    },
+    {
+        "resturantName": "Quick Bites",
+        "locality ": "Al Zahid Nemat Kada",
+        "rating": "Chandni Chowk",
+        "reviews": "NEW",
+        "priceRange": 250,
+        "resturnatID": 18986251
+    },
+    {
+        "resturantName": "Harry's Bar + Cafe",
+        "locality ": "Khan Market",
+        "rating": "3.9",
+        "reviews": "564 votes",
+        "priceRange": 1700,
+        "resturnatID": 307284
+    },
+    {
+        "resturantName": "Chicken Inn",
+        "locality ": "Pandara Road Market",
+        "rating": "4.3",
+        "reviews": "872 votes",
+        "priceRange": 1500,
+        "resturnatID": 800
+    },
+    {
+        "resturantName": "Tera Hotel",
+        "locality ": "Karol Bagh",
+        "rating": "3.7",
+        "reviews": "328 votes",
+        "priceRange": 350,
+        "resturnatID": 1904
+    },
+    {
+        "resturantName": "Wah Ji Wah",
+        "locality ": "Karol Bagh",
+        "rating": "3.7",
+        "reviews": "122 votes",
+        "priceRange": 400,
+        "resturnatID": 18802818
+    },
+    {
+        "resturantName": "La Bake",
+        "locality ": "Rajinder Nagar",
+        "rating": "3.6",
+        "reviews": "24 votes",
+        "priceRange": 400,
+        "resturnatID": 18858284
+    },
+    {
+        "resturantName": "Bhaja Govindam",
+        "locality ": "Daryaganj",
+        "rating": "3.9",
+        "reviews": "356 votes",
+        "priceRange": 700,
+        "resturnatID": 3180
+    }
+]

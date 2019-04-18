@@ -1,0 +1,122 @@
+[
+    {
+        "resturantName": "Kanwarji's",
+        "locality ": "Chandni Chowk",
+        "rating": "3.9",
+        "reviews": "343 votes",
+        "priceRange": 300,
+        "resturnatID": 6704
+    },
+    {
+        "resturantName": "Mitra Da Dhaba",
+        "locality ": "Rajinder Nagar",
+        "rating": "3.7",
+        "reviews": "175 votes",
+        "priceRange": 350,
+        "resturnatID": 311383
+    },
+    {
+        "resturantName": "Om Ji Om",
+        "locality ": "Karol Bagh",
+        "rating": "3.7",
+        "reviews": "191 votes",
+        "priceRange": 500,
+        "resturnatID": 7534
+    },
+    {
+        "resturantName": "The Spot",
+        "locality ": "Karol Bagh",
+        "rating": "3.7",
+        "reviews": "226 votes",
+        "priceRange": 350,
+        "resturnatID": 5560
+    },
+    {
+        "resturantName": "Old Famous Jalebi Wala",
+        "locality ": "Chandni Chowk",
+        "rating": "4.0",
+        "reviews": "1203 votes",
+        "priceRange": 100,
+        "resturnatID": 9165
+    },
+    {
+        "resturantName": "Burning Bakes",
+        "locality ": "Rajinder Nagar",
+        "rating": "3.3",
+        "reviews": "20 votes",
+        "priceRange": 400,
+        "resturnatID": 18884796
+    },
+    {
+        "resturantName": "The Big Chill Creamery",
+        "locality ": "Khan Market",
+        "rating": "3.9",
+        "reviews": "34 votes",
+        "priceRange": 700,
+        "resturnatID": 18808067
+    },
+    {
+        "resturantName": "Abdul Ghani Qureshi Kabab Corner",
+        "locality ": "Jama Masjid",
+        "rating": "4.2",
+        "reviews": "178 votes",
+        "priceRange": 300,
+        "resturnatID": 18454466
+    },
+    {
+        "resturantName": "Jung Bahadur Kachori Wala",
+        "locality ": "Chandni Chowk",
+        "rating": "4.1",
+        "reviews": "811 votes",
+        "priceRange": 100,
+        "resturnatID": 9166
+    },
+    {
+        "resturantName": "Jahangeer Foods",
+        "locality ": "Daryaganj",
+        "rating": "4.0",
+        "reviews": "238 votes",
+        "priceRange": 600,
+        "resturnatID": 4715
+    },
+    {
+        "resturantName": "Yellow Brick Road - Taj Vivanta",
+        "locality ": "Taj Vivanta, Khan Market",
+        "rating": "4.0",
+        "reviews": "1000 votes",
+        "priceRange": 3500,
+        "resturnatID": 4404
+    },
+    {
+        "resturantName": "Shiv Misthan Bhandar",
+        "locality ": "Chandni Chowk",
+        "rating": "3.9",
+        "reviews": "154 votes",
+        "priceRange": 100,
+        "resturnatID": 9161
+    },
+    {
+        "resturantName": "Standard Burfee",
+        "locality ": "Karol Bagh",
+        "rating": "3.9",
+        "reviews": "203 votes",
+        "priceRange": 200,
+        "resturnatID": 7526
+    },
+    {
+        "resturantName": "Wok In The Clouds",
+        "locality ": "Khan Market",
+        "rating": "4.4",
+        "reviews": "1084 votes",
+        "priceRange": 2000,
+        "resturnatID": 307799
+    },
+    {
+        "resturantName": "Lazeez Kebab & Curries",
+        "locality ": "Rajinder Nagar",
+        "rating": "3.7",
+        "reviews": "54 votes",
+        "priceRange": 400,
+        "resturnatID": 18895692
+    }
+]

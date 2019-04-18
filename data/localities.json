@@ -1,152 +1,152 @@
-[
-    {
+{
+    "1": {
         "name": "Connaught Place",
-        "locations": "300 places",
+        "locations": 300,
         "url": "https://www.zomato.com/ncr/connaught-place-delhi-restaurants"
     },
-    {
+    "2": {
         "name": "Sector 29, Gurgaon",
-        "locations": "196 places",
+        "locations": 196,
         "url": "https://www.zomato.com/ncr/sector-29-gurgaon-restaurants"
     },
-    {
+    "3": {
         "name": "Sector 18, Noida",
-        "locations": "241 places",
+        "locations": 241,
         "url": "https://www.zomato.com/ncr/sector-18-noida-restaurants"
     },
-    {
+    "4": {
         "name": "Rajouri Garden",
-        "locations": "398 places",
+        "locations": 398,
         "url": "https://www.zomato.com/ncr/rajouri-garden-delhi-restaurants"
     },
-    {
+    "5": {
         "name": "Saket",
-        "locations": "355 places",
+        "locations": 355,
         "url": "https://www.zomato.com/ncr/saket-delhi-restaurants"
     },
-    {
+    "6": {
         "name": "DLF Cyber City",
-        "locations": "167 places",
+        "locations": 167,
         "url": "https://www.zomato.com/ncr/dlf-cyber-city-gurgaon-restaurants"
     },
-    {
+    "7": {
         "name": "Golf Course Road",
-        "locations": "255 places",
+        "locations": 255,
         "url": "https://www.zomato.com/ncr/golf-course-road-gurgaon-restaurants"
     },
-    {
+    "8": {
         "name": "DLF Phase 4",
-        "locations": "301 places",
+        "locations": 301,
         "url": "https://www.zomato.com/ncr/dlf-phase-4-gurgaon-restaurants"
     },
-    {
+    "9": {
         "name": "Delhi University-GTB Nagar",
-        "locations": "210 places",
+        "locations": 210,
         "url": "https://www.zomato.com/ncr/delhi-university-gtb-nagar-delhi-restaurants"
     },
-    {
+    "10": {
         "name": "Indirapuram",
-        "locations": "633 places",
+        "locations": 633,
         "url": "https://www.zomato.com/ncr/indirapuram-restaurants"
     },
-    {
+    "11": {
         "name": "Vasant Kunj",
-        "locations": "434 places",
+        "locations": 434,
         "url": "https://www.zomato.com/ncr/vasant-kunj-delhi-restaurants"
     },
-    {
+    "12": {
         "name": "Greater Kailash 1",
-        "locations": "231 places",
+        "locations": 231,
         "url": "https://www.zomato.com/ncr/greater-kailash-gk-1-delhi-restaurants"
     },
-    {
+    "13": {
         "name": "Chanakyapuri",
-        "locations": "116 places",
+        "locations": 116,
         "url": "https://www.zomato.com/ncr/chanakyapuri-delhi-restaurants"
     },
-    {
+    "14": {
         "name": "Rohini",
-        "locations": "1062 places",
+        "locations": 1062,
         "url": "https://www.zomato.com/ncr/rohini-delhi-restaurants"
     },
-    {
+    "15": {
         "name": "Janpath",
-        "locations": "52 places",
+        "locations": 52,
         "url": "https://www.zomato.com/ncr/janpath-delhi-restaurants"
     },
-    {
+    "16": {
         "name": "Hauz Khas Village",
-        "locations": "74 places",
+        "locations": 74,
         "url": "https://www.zomato.com/ncr/hauz-khas-village-delhi-restaurants"
     },
-    {
+    "17": {
         "name": "Sector 38, Noida",
-        "locations": "110 places",
+        "locations": 110,
         "url": "https://www.zomato.com/ncr/sector-38-noida-restaurants"
     },
-    {
+    "18": {
         "name": "Janakpuri",
-        "locations": "492 places",
+        "locations": 492,
         "url": "https://www.zomato.com/ncr/janakpuri-delhi-restaurants"
     },
-    {
+    "19": {
         "name": "Sector 50, Gurgaon",
-        "locations": "269 places",
+        "locations": 269,
         "url": "https://www.zomato.com/ncr/sector-50-gurgaon-restaurants"
     },
-    {
+    "20": {
         "name": "MG Road, Gurgaon",
-        "locations": "245 places",
+        "locations": 245,
         "url": "https://www.zomato.com/ncr/mg-road-gurgaon-restaurants"
     },
-    {
+    "21": {
         "name": "DLF Phase 3",
-        "locations": "510 places",
+        "locations": 510,
         "url": "https://www.zomato.com/ncr/dlf-phase-3-gurgaon-restaurants"
     },
-    {
+    "22": {
         "name": "Punjabi Bagh",
-        "locations": "211 places",
+        "locations": 211,
         "url": "https://www.zomato.com/ncr/punjabi-bagh-delhi-restaurants"
     },
-    {
+    "23": {
         "name": "Netaji Subhash Place",
-        "locations": "130 places",
+        "locations": 130,
         "url": "https://www.zomato.com/ncr/netaji-subhash-place-delhi-restaurants"
     },
-    {
+    "24": {
         "name": "Malviya Nagar",
-        "locations": "414 places",
+        "locations": 414,
         "url": "https://www.zomato.com/ncr/malviya-nagar-delhi-restaurants"
     },
-    {
+    "25": {
         "name": "Khan Market",
-        "locations": "65 places",
+        "locations": 65,
         "url": "https://www.zomato.com/ncr/khan-market-delhi-restaurants"
     },
-    {
+    "26": {
         "name": "Karol Bagh",
-        "locations": "322 places",
+        "locations": 322,
         "url": "https://www.zomato.com/ncr/karol-bagh-delhi-restaurants"
     },
-    {
+    "27": {
         "name": "Nehru Place",
-        "locations": "93 places",
+        "locations": 93,
         "url": "https://www.zomato.com/ncr/nehru-place-delhi-restaurants"
     },
-    {
+    "28": {
         "name": "Sohna Road",
-        "locations": "355 places",
+        "locations": 355,
         "url": "https://www.zomato.com/ncr/sohna-road-gurgaon-restaurants"
     },
-    {
+    "29": {
         "name": "Greater Kailash 2",
-        "locations": "146 places",
+        "locations": 146,
         "url": "https://www.zomato.com/ncr/greater-kailash-gk-2-delhi-restaurants"
     },
-    {
+    "30": {
         "name": "Pitampura",
-        "locations": "429 places",
+        "locations": 429,
         "url": "https://www.zomato.com/ncr/pitampura-delhi-restaurants"
     }
-]
+}
